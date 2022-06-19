@@ -1,0 +1,7 @@
+12-point type, use 12/72nd or 1/6th of an inch. Or,
+ you can use your eye to adjust the paragraph indent 
+to suit your tastes. I often let mine vary from a 
+digital “em,” because every typeface has characters 
+of different widths and proportions, even at the same 
+point size. As always, when in doubt, defer to a trained
+eye. If stranded on a desert island, use a hair shy of 1/8-inch.
